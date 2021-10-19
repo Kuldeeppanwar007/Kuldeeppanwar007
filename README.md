@@ -27,7 +27,7 @@ const profile = {
  fullName: "Kuldeep Panwar",
  programmingSkills: {
     clientSoftware: ["HTML","CSS" "JavaScript", "JSON", "React"],
-    serverSoftware: ["Node.js", "Express.js", "MongoDB", "Firebase","MySql"]
+    serverSoftware: ["Node.js", "Express.js", "MongoDB", "Firebase","MySql"],
     programming_lang:["C","C++"]
         },
   languages: ["hindi", "English"],
