@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> Hi there, I am Kuldeep!</h2>
+<img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
+<p><em> self-taught developer 👨‍💻</em></p>
+
+
+### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const profile = {
+ fullName: "Kuldeep Panwar",
+ programmingSkills: {
+    clientSoftware: ["HTML","CSS" "JavaScript", "JSON", "React"],
+    serverSoftware: ["Node.js", "Express.js", "MongoDB", "Firebase","MySql"]
+    programming_lang:["C","C++"]
+        },
+  languages: ["hindi", "English"],
+  currentFocus: "Creating 'the next big thing' "
+}
+```
+
+📫 Contact me on: 
+    - [LinkedIn](https://www.linkedin.com/in/kuldeep-panwar-0433a5184/)
