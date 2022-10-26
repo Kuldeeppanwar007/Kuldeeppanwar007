@@ -29,7 +29,7 @@ const profile = {
     clientSoftware: ["HTML","CSS" "JavaScript", "JSON", "React"],
     serverSoftware: ["Node.js", "Express.js", "MongoDB","MySql"],
     cloudComputing: ["AWS"],
-    programming_lang:["C","C++","JAVA","JavaScript"]
+    programming_lang:["JAVA","JavaScript"]
         },
   languages: ["hindi", "English"],
   currentFocus: "Creating 'the next big thing' "
