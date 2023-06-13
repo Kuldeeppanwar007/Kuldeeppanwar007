@@ -37,4 +37,4 @@ const profile = {
 ```
 
 📫 Contact me on: 
-    - [LinkedIn](https://www.linkedin.com/in/kuldeep-panwar-0433a5184/)
+    - [LinkedIn](https://www.linkedin.com/in/kuldeeppanwar007/)
