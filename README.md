@@ -13,13 +13,18 @@ const profile = {
   skills: {
     clientSide: ["HTML", "CSS", "JavaScript", "React", "Flutter"],
     serverSide: ["Node.js", "Express.js", "PHP", "Laravel"],
-    databases: ["MySQL", "MongoDB"],
-    cloud: ["AWS (EC2, S3, Lambda)", "Firebase"],
+    databases: ["MySQL", "MongoDB", "Dynamo DB", "Postgres"],
+    cloud: ["AWS", "Firebase", "Azure", "GCP"],
     cybersecurity: ["Secure Auth Systems", "Data Encryption", "Vulnerability Management", "Role-Based Access Control"],
     AI_ML: ["Agri-focused AI advisors", "Chatbot intelligence"],
     others: ["REST APIs", "RBAC", "ChromaDB", "SaaS Architecture"]
   },
-  toolsAndPlatforms: ["Git", "Docker", "Linux", "VSCode", "Postman"],
+  toolsAndPlatforms: ["Git", "Docker", "Linux", "VSCode", "Postman", "and many more.."],
   languages: ["Hindi", "English"],
   currentFocus: "Building secure, scalable SaaS platforms and AI-powered systems"
 }
+
+📫Reach out to me on:  
+  - [LinkedIn](https://www.linkedin.com/in/kuldeeppanwar007/)  
+  - 📧 Email: [kuldeeppanwar7697@gmail.com](mailto:kuldeeppanwar7697@gmail.com)  
+  - 🏢 Office: [Singaji Software Solutions](https://singaji.in)
