@@ -23,6 +23,7 @@ const profile = {
   languages: ["Hindi", "English"],
   currentFocus: "Building secure, scalable SaaS platforms and AI-powered systems"
 }
+```
 
 📫Reach out to me on:  
   - [LinkedIn](https://www.linkedin.com/in/kuldeeppanwar007/)  
