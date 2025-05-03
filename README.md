@@ -26,6 +26,6 @@ const profile = {
 ```
 
 📫Reach out to me on:  
-  - [LinkedIn](https://www.linkedin.com/in/kuldeeppanwar007/)  
-  - 📧 Email: [kuldeeppanwar7697@gmail.com](mailto:kuldeeppanwar7697@gmail.com)  
-  - 🏢 Office: [Singaji Software Solutions](https://singaji.in)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kuldeeppanwar007/)
+  - 📧[kuldeeppanwar7697@gmail.com](mailto:kuldeeppanwar7697@gmail.com)  
+  - 🏢[Singaji Software Solutions](https://singaji.in)
