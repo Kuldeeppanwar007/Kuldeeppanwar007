@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I am Kuldeep!</h2>
 <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" height="230">
-<p><em>Development Head at <strong>Singaji Software Solutions</strong> | 3+ Years in IT | Expert in Cybersecurity, Real Estate & AgriTech</em></p>
+<p><em>CTO at <strong>Singaji Software Solutions</strong> | 4+ Years in IT</em></p>
 
 ### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...
 
