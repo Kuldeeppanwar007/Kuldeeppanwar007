@@ -7,9 +7,9 @@
 ```javascript
 const profile = {
   fullName: "Kuldeep Panwar",
-  role: "Development Head @ Singaji Software Solutions",
-  experience: "3+ years",
-  industryFocus: ["Cybersecurity", "Real Estate", "Agriculture"],
+  role: "CTO @ Singaji Software Solutions",
+  experience: "4+ years",
+  industryFocus: ["Cybersecurity", "Real Estate", "AgriTech", "EduTech", "FinTech" ],
   skills: {
     clientSide: ["HTML", "CSS", "JavaScript", "React", "Flutter"],
     serverSide: ["Node.js", "Express.js", "PHP", "Laravel"],
@@ -21,7 +21,7 @@ const profile = {
   },
   toolsAndPlatforms: ["Git", "Docker", "Linux", "VSCode", "Postman", "and many more.."],
   languages: ["Hindi", "English"],
-  currentFocus: "Building secure, scalable SaaS platforms and AI-powered systems"
+  currentFocus: "Building secure, scalable SaaS platforms and AI-powered systems."
 }
 ```
 
