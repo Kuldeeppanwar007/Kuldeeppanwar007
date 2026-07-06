@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ================= HEADER BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kuldeep%20Panwar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20%7C%20Architect%20of%20Secure%20%26%20Scalable%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kuldeep+Panwar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO+-+Architect+of+Secure+and+Scalable+Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ================= TYPING INTRO ================= -->
 <a href="https://singaji.in">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDAE&center=true&vCenter=true&width=650&lines=CTO+%40+Singaji+Software+Solutions;7%2B+Years+Engineering+at+Scale;Cybersecurity+%E2%80%A2+SaaS+%E2%80%A2+AI+Systems;Shipping+Secure%2C+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDAE&center=true&vCenter=true&width=650&lines=CTO+%40+Singaji+Software+Solutions;7%2B+Years+Engineering+at+Scale;Cybersecurity+%E2%80%A2+SaaS+%E2%80%A2+AI+Systems;Shipping+Secure%2C+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -150,7 +150,7 @@ const kuldeep: CTO = {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeeppanwar007&theme=react&hide_border=true&background=0D1117&ring=38BDAE&fire=FF6B6B&currStreakLabel=38BDAE" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=kuldeeppanwar007&theme=react&hide_border=true&background=0D1117&ring=38BDAE&fire=FF6B6B&currStreakLabel=38BDAE" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -195,7 +195,7 @@ const kuldeep: CTO = {
 <br/>
 
 <!-- ================= FOOTER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
 **⭐ If my work resonates with you, a star goes a long way!**
 
