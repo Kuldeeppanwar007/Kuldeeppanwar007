@@ -5,7 +5,7 @@
 
 <!-- ================= TYPING INTRO ================= -->
 <a href="https://singaji.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDAE&center=true&vCenter=true&width=650&lines=CTO+%40+Singaji+Software+Solutions;7%2B+Years+Engineering+at+Scale;Cybersecurity+%E2%80%A2+SaaS+%E2%80%A2+AI+Systems;Shipping+Secure%2C+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDAE&center=true&vCenter=true&width=650&lines=CTO+%40+Singaji+Software+Solutions;7%2B+Years+Engineering+at+Scale;Cybersecurity+%E2%80%A2+SaaS+%E2%80%A2+AI+Systems;Full+Stack+%E2%80%A2+Data+Pipelines+%E2%80%A2+Cloud;Shipping+Secure%2C+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -71,7 +71,7 @@ const kuldeep: CTO = {
 
 ### 🌱 Exploring
 - 🧬 Vector databases & RAG pipelines (ChromaDB)
-- ☁️ Multi-cloud resilience patterns
+- 🔄 Real-time **ETL & CDC pipelines** (Kafka, Debezium)
 - ⚡ Event-driven microservice architectures
 
 </td>
@@ -86,14 +86,20 @@ const kuldeep: CTO = {
 ### 💻 Frontend
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend
 <p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -104,10 +110,20 @@ const kuldeep: CTO = {
 ### 🗄️ Databases
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+### 🔄 Data Engineering & Pipelines
+<p>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-2c5364?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/CDC%20(Change%20Data%20Capture)-0f2027?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Debezium-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -120,14 +136,21 @@ const kuldeep: CTO = {
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-### 🛡️ Security & AI
+### 🛡️ Security
 <p>
 <img src="https://img.shields.io/badge/Secure%20Auth-2c5364?style=for-the-badge&logo=auth0&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Encryption-0f2027?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
 <img src="https://img.shields.io/badge/RBAC-203a43?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vulnerability%20Mgmt-8B0000?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
+
+### 🤖 AI & Intelligent Systems
+<p>
 <img src="https://img.shields.io/badge/AI%20Advisors-38BDAE?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chatbot%20Intelligence-6C63FF?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Search-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 ### 🧰 Tools
@@ -145,8 +168,8 @@ const kuldeep: CTO = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kuldeeppanwar007&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeeppanwar007&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDAE" alt="Top Languages"/>
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kuldeeppanwar007&theme=github_dark" alt="GitHub Stats"/>
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kuldeeppanwar007&theme=github_dark" alt="Top Languages"/>
 
 <br/><br/>
 
