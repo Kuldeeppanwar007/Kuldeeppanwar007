@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom animated hero (lives in YOUR repo — never breaks, never rate-limits) -->
-<img src="assets/header.svg" width="100%" alt="Kuldeep Panwar — Chief Technology Officer, Singaji Software Solutions"/>
+<img src="header.svg" width="100%" alt="Kuldeep Panwar — Chief Technology Officer, Singaji Software Solutions"/>
 
 </div>
 
@@ -25,7 +25,7 @@ I build **secure, scalable SaaS platforms** and **AI-powered systems** — and l
 ## `$ systemctl status stack`
 
 <div align="center">
-<img src="assets/stack-status.svg" width="100%" alt="Live tech stack status dashboard — frontend, backend, data, cloud, security, and AI systems"/>
+<img src="stack-status.svg" width="100%" alt="Live tech stack status dashboard — frontend, backend, data, cloud, security, and AI systems"/>
 </div>
 
 <br/>
