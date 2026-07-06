@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kuldeep+Panwar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO+-+Architect+of+Secure+and+Scalable+Systems&descAlignY=58&descSize=18" width="100%" alt="Kuldeep Panwar — CTO, Architect of Secure and Scalable Systems"/>
 
 <!-- Custom animated terminal hero (lives in YOUR repo — never breaks, never rate-limits) -->
-<img src="assets/header.svg" width="100%" alt="Animated terminal boot sequence — Kuldeep's systems coming online"/>
+<img src="header.svg" width="100%" alt="Animated terminal boot sequence — Kuldeep's systems coming online"/>
 
 </div>
 
@@ -28,7 +28,7 @@ I build **secure, scalable SaaS platforms** and **AI-powered systems** — and l
 ## `$ systemctl status stack`
 
 <div align="center">
-<img src="assets/stack-status.svg" width="100%" alt="Live tech stack status dashboard — frontend, backend, data, cloud, security, and AI systems"/>
+<img src="stack-status.svg" width="100%" alt="Live tech stack status dashboard — frontend, backend, data, cloud, security, and AI systems"/>
 </div>
 
 <br/>
